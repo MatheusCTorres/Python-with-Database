@@ -1,9 +1,9 @@
 # Python with Database
 
-## Install mysql.connector
+## Install mysql-connector
 
 ```
-pip install mysql.connector
+pip install mysql-connector
 ```
 
 1. Write a script called **_showtables.py_** in Python that connects to your MySQL server and prints the
